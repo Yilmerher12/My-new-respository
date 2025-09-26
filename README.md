@@ -1,5 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yilmer Hernandez Camargo
 
+I'm from Colombia, Bogotá more specifically Bosa (It's the southest part of Bogotá), I'm 20 years old and I really enjoy learning about anything. I can speak in Spanish (native) and English, also I'm learning French.
 I'm a student of the ADSO program at SENA, currently learning software development.  
 My goal is to become a fullstack web developer and build projects that solve real problems.
 
